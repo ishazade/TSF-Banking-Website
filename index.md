@@ -1,5 +1,5 @@
-[Uploading bank.zip…]()
-[Uploading bank.zip…]()
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ishazade/TSF-Banking-Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
